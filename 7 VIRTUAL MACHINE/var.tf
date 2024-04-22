@@ -1,0 +1,6 @@
+variable "vm" {
+
+}
+variable "nic" {
+
+}
